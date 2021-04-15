@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "szkola-andulara"
+    }
+  },
+  "defaultProject": "szkola-andulara",
+  "cli": {
+    "analytics": false
+  }
 }
